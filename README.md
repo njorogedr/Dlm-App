@@ -9,6 +9,16 @@ The **Dynamic List Manager (DLM) App** is a simple React application that allows
 - Minimal and responsive UI design.
 
 ## Project Structure
+DLM-APP MAIN
+   Dlm-app
+      public
+      src
+         App.jsx
+         App.css
+         Index.css
+         Main.jsx
+Packages:List
+Readme.md
 
 ## Installation
 # Git command line enviroment 
